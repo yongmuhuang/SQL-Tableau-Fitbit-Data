@@ -90,16 +90,15 @@ Correlation between **steps** and **sleep duration**:
 - Steps vs. minutes asleep: **r = -0.19** (no meaningful relationship).
 - Steps vs. time in bed: **r = -0.17** (no meaningful relationship).
 
-**Chart 5:** Steps vs. sleep correlation  
-`![Chart 5](charts/chart5.png)`
+Refer to **Chart 3**
 
 ---
 
 ### 4.5 Time Trends
 Average daily steps rose in the middle of the study and dropped during partial data weeks (Week 10 & 19).
 
-**Chart 6:** Weekly average steps over time  
-`![Chart 6](charts/chart6.png)`
+**Chart 5:** Weekly average steps over time  
+`![Chart 5](charts/chart5.png)`
 
 ---
 ### 4.6 Activity vs. Other Metrics
@@ -115,14 +114,11 @@ To explore how physical activity related to other health measurements:
 - **Sleep vs. Steps:**  
   Consistent with the correlation analysis, stacked bars show little to no relationship between activity level and sleep duration.
 
-**Chart 7:** Steps vs. Calories Burned  
+**Chart 6:** Steps vs. Calories Burned  
+`![Chart 6](charts/chart6.png)`
+
+**Chart 7:** Steps vs. Average Heart Rate  
 `![Chart 7](charts/chart7.png)`
-
-**Chart 8:** Steps vs. Average Heart Rate  
-`![Chart 8](charts/chart8.png)`
-
-**Chart 9:** Steps vs. Sleep Duration  
-`![Chart 9](charts/chart9.png)`
 
 ---
 
