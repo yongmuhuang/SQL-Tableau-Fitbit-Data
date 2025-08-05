@@ -34,7 +34,7 @@ Bellabeat is a wellness technology company that creates health-focused smart pro
 4. Merged datasets from two periods after confirming overlapping users.
 
 **Chart 1:** Daily participant count over time  
-`![Chart 1](charts/chart1.png)`
+![Chart 1](charts/chart1.png)
 
 ---
 
@@ -53,7 +53,7 @@ The **7,000-step threshold** for “Healthy Active” is supported by research s
 
 **Finding:** 54% of users were sedentary. Only 12% were high active or fitness-focused.  
 **Chart 2:** Distribution of users by activity level  
-`![Chart 2](charts/chart2.png)`
+![Chart 2](charts/chart2.png)
 
 ---
 
@@ -63,7 +63,7 @@ The **7,000-step threshold** for “Healthy Active” is supported by research s
 - Suggests opportunities for timing campaigns when activity is highest.
 
 **Chart 3:** Average daily steps by day of week  
-`![Chart 3](charts/chart3.png)`
+![Chart 3](charts/chart3.png)
 
 ---
 
@@ -81,7 +81,7 @@ Users below 69% were labeled weekend movers.
 These cutoffs are approximate and chosen for simplicity in segmentation rather than strict statistical precision, which is appropriate for the exploratory nature of this project.
 
 **Chart 4:** Exercise pattern segmentation  
-`![Chart 4](charts/chart4.png)`
+![Chart 4](charts/chart4.png)
 
 ---
 
@@ -98,7 +98,7 @@ Refer to **Chart 3**
 Average daily steps rose in the middle of the study and dropped during partial data weeks (Week 10 & 19).
 
 **Chart 5:** Weekly average steps over time  
-`![Chart 5](charts/chart5.png)`
+![Chart 5](charts/chart5.png)
 
 ---
 ### 4.6 Activity vs. Other Metrics
@@ -115,10 +115,10 @@ To explore how physical activity related to other health measurements:
   Consistent with the correlation analysis, stacked bars show little to no relationship between activity level and sleep duration.
 
 **Chart 6:** Steps vs. Calories Burned  
-`![Chart 6](charts/chart6.png)`
+![Chart 6](charts/chart6.png)
 
 **Chart 7:** Steps vs. Average Heart Rate  
-`![Chart 7](charts/chart7.png)`
+![Chart 7](charts/chart7.png)
 
 ---
 
